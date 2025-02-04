@@ -1,0 +1,83 @@
+{
+  "types": {
+    "villa": "Villa",
+    "apartment": "Apartment",
+    "house": "House",
+    "land": "Land",
+    "palace": "Palace"
+  },
+  "features": {
+    "swimming_pool": "Swimming Pool",
+    "maid_room": "Maid Room",
+    "electronic_gates": "Electronic Gates",
+    "smart_home": "Smart Home System",
+    "furnished": "Furnished",
+    "central_ac": "Central AC",
+    "multiple_kitchens": "Multiple Kitchens",
+    "separate_annex": "Separate Annex",
+    "storage": "Storage Room",
+    "cinema": "Cinema Room",
+    "elevator": "Elevator",
+    "professional_kitchen": "Professional Kitchen",
+    "staff_quarters": "Staff Quarters",
+    "multiple_entrances": "Multiple Entrances",
+    "landscaped_gardens": "Landscaped Gardens",
+    "premium_finishes": "Premium Finishes",
+    "security_system": "Security System",
+    "drivers_quarters": "Driver's Quarters",
+    "entertainment_hall": "Entertainment Hall",
+    "marble_flooring": "Marble Flooring",
+    "crystal_chandeliers": "Crystal Chandeliers",
+    "modern_design": "Modern Design",
+    "high_end_finishes": "High-end Finishes",
+    "family_living": "Family Living",
+    "private_garden": "Private Garden",
+    "spacious_layout": "Spacious Layout",
+    "multiple_living_areas": "Multiple Living Areas",
+    "fiber_optic": "Fiber Optic Internet",
+    "modern_utilities": "Modern Utilities",
+    "flood_drainage": "Flood Drainage"
+  },
+  "cities": {
+    "baghdad": "Baghdad",
+    "erbil": "Erbil",
+    "basra": "Basra",
+    "mosul": "Mosul"
+  },
+  "districts": {
+    "al_mansour": "Al-Mansour",
+    "al_jazair": "Al-Jazair",
+    "dream_city": "Dream City",
+    "yarmouk": "Yarmouk"
+  },
+  "property_details": {
+    "price": "Price",
+    "location": "Location",
+    "description": "Description",
+    "features": "Features",
+    "contact_agent": "Contact Agent",
+    "beds": "{count} Bedrooms",
+    "baths": "{count} Bathrooms",
+    "area": "{count} sqm",
+    "agent": "Real Estate Agent",
+    "view_more": "View More Properties",
+    "viewProfile": "View Profile",
+    "callAgent": "Call Agent",
+    "emailAgent": "Email Agent",
+    "whatsappAgent": "WhatsApp Agent"
+  },
+  "agent": {
+    "notFound": "Agent Not Found",
+    "experience": "Experience",
+    "languages": "Languages",
+    "currentListings": "Current Listings",
+    "about": "About",
+    "contact": "Contact Information",
+    "rating": "Rating",
+    "reviews": "reviews"
+  },
+  "common": {
+    "returnHome": "Return to Home",
+    "viewDetails": "View Details"
+  }
+} 

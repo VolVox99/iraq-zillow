@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "agents": "Agents",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Discover Your Dream Home in Iraq",
+    "subtitle": "Explore our curated collection of premium properties and find your perfect sanctuary",
+    "search": {
+      "location": "Enter location",
+      "propertyType": "Property Type",
+      "types": {
+        "all": "All Types",
+        "villa": "Villa",
+        "apartment": "Apartment",
+        "house": "House",
+        "land": "Land"
+      },
+      "button": "Search"
+    }
+  },
+  "featured": {
+    "title": "Featured Properties",
+    "subtitle": "Discover our hand-picked selection of premium properties",
+    "badge": "Featured",
+    "viewDetails": "View Details",
+    "propertyDetails": {
+      "beds": "{count} beds",
+      "baths": "{count} baths",
+      "area": "{count} sqm"
+    }
+  },
+  "categories": {
+    "title": "Quick Search Categories",
+    "subtitle": "Find your ideal property type with ease",
+    "types": {
+      "villas": "Villas",
+      "apartments": "Apartments",
+      "commercial": "Commercial",
+      "land": "Land"
+    },
+    "properties": "{count} properties"
+  },
+  "cities": {
+    "title": "Popular Cities",
+    "subtitle": "Explore properties in Iraq's most sought-after locations",
+    "explore": "Explore",
+    "properties": "{count} properties",
+    "baghdad": "Baghdad",
+    "erbil": "Erbil",
+    "basra": "Basra",
+    "mosul": "Mosul"
+  },
+  "footer": {
+    "company": "Iraq Real Estate",
+    "tagline": "Your trusted partner in finding the perfect property in Iraq",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 Iraq Real Estate. All rights reserved."
+  },
+  "search": {
+    "noResults": "No properties found matching your criteria",
+    "filters": {
+      "minPrice": "Min Price",
+      "maxPrice": "Max Price"
+    }
+  }
+} 

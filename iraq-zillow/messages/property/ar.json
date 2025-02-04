@@ -1,0 +1,83 @@
+{
+  "types": {
+    "villa": "فيلا",
+    "apartment": "شقة",
+    "house": "منزل",
+    "land": "أرض",
+    "palace": "قصر"
+  },
+  "features": {
+    "swimming_pool": "حمام سباحة",
+    "maid_room": "غرفة خادمة",
+    "electronic_gates": "بوابات إلكترونية",
+    "smart_home": "نظام منزل ذكي",
+    "furnished": "مفروش",
+    "central_ac": "تكييف مركزي",
+    "multiple_kitchens": "مطابخ متعددة",
+    "separate_annex": "ملحق منفصل",
+    "storage": "غرفة تخزين",
+    "cinema": "غرفة سينما",
+    "elevator": "مصعد",
+    "professional_kitchen": "مطبخ احترافي",
+    "staff_quarters": "سكن للموظفين",
+    "multiple_entrances": "مداخل متعددة",
+    "landscaped_gardens": "حدائق منسقة",
+    "premium_finishes": "تشطيبات فاخرة",
+    "security_system": "نظام أمني",
+    "drivers_quarters": "سكن للسائق",
+    "entertainment_hall": "صالة ترفيه",
+    "marble_flooring": "أرضيات رخام",
+    "crystal_chandeliers": "ثريات كريستال",
+    "modern_design": "تصميم عصري",
+    "high_end_finishes": "تشطيبات راقية",
+    "family_living": "سكن عائلي",
+    "private_garden": "حديقة خاصة",
+    "spacious_layout": "تصميم واسع",
+    "multiple_living_areas": "مناطق معيشة متعددة",
+    "fiber_optic": "إنترنت ألياف ضوئية",
+    "modern_utilities": "مرافق حديثة",
+    "flood_drainage": "تصريف مياه"
+  },
+  "cities": {
+    "baghdad": "بغداد",
+    "erbil": "أربيل",
+    "basra": "البصرة",
+    "mosul": "الموصل"
+  },
+  "districts": {
+    "al_mansour": "المنصور",
+    "al_jazair": "الجزائر",
+    "dream_city": "دريم سيتي",
+    "yarmouk": "اليرموك"
+  },
+  "property_details": {
+    "price": "السعر",
+    "location": "الموقع",
+    "description": "الوصف",
+    "features": "المميزات",
+    "contact_agent": "اتصل بالوكيل",
+    "beds": "{count} غرف نوم",
+    "baths": "{count} حمامات",
+    "area": "{count} متر مربع",
+    "agent": "وكيل عقاري",
+    "view_more": "عرض المزيد من العقارات",
+    "viewProfile": "عرض الملف الشخصي",
+    "callAgent": "اتصل بالوكيل",
+    "emailAgent": "راسل الوكيل",
+    "whatsappAgent": "واتساب"
+  },
+  "agent": {
+    "notFound": "الوكيل غير موجود",
+    "experience": "الخبرة",
+    "languages": "اللغات",
+    "currentListings": "العقارات الحالية",
+    "about": "نبذة عن",
+    "contact": "معلومات الاتصال",
+    "rating": "التقييم",
+    "reviews": "تقييمات"
+  },
+  "common": {
+    "returnHome": "العودة إلى الصفحة الرئيسية",
+    "viewDetails": "عرض التفاصيل"
+  }
+} 
