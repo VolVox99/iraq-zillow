@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Bed, Bath, Square, MapPin } from "lucide-react";
@@ -14,7 +14,8 @@ import { useTranslations } from "@/hooks/useTranslations";
 import { PropertyCard } from "@/components/PropertyCard";
 import type { Property } from "@/types/property";
 
-export default function SearchResults() {
+// Create a separate component for the search functionality
+function SearchResultsContent() {
   const searchParams = useSearchParams();
   const [properties, setProperties] = useState<Property[]>([]);
   const { language } = useLanguage();
@@ -94,5 +95,14 @@ export default function SearchResults() {
         )}
       </main>
     </div>
+  );
+}
+
+// Wrap the content component with Suspense in the main component
+export default function SearchResults() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <SearchResultsContent />
+    </Suspense>
   );
 } 
