@@ -29,9 +29,13 @@ export default function LandingPage() {
   };
 
   // Get translated properties for the featured section
-  const featuredProperties = properties.slice(0, 3).map(property => 
-    getTranslatedProperty(property, language)
-  );
+  const featuredProperties = properties.slice(0, 3).map(property => ({
+    ...property,
+    // Preserve the original property structure while updating translated fields
+    title: getTranslatedProperty(property, language).title,
+    description: getTranslatedProperty(property, language).description,
+    location: getTranslatedProperty(property, language).location,
+  }));
 
   return (
     <div className="min-h-screen bg-background">
